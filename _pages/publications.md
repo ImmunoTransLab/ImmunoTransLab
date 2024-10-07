@@ -13,7 +13,7 @@ author_profile: true
 2. Li J, Lan Z,<strong>Liao W</strong>, Horner JW, Xu X, Liu J, Yoshihama Y, Jiang S, Shim HS, Slotnik M, LaBella KA, Wu CJ, Dunner K, Jr., Hsu WH, Lee R, Khanduri I, Terranova C, Akdemir K, Chakravarti D, Shang X, Spring DJ, Wang YA, DePinho RA. Histone demethylase KDM5D upregulation drives sex differences in colon cancer. Nature, 2023; 619, 632-639.
 
 
-3. Lina Zhu#, Chengmei Huang#, Chao Zhang#, Enen Zhao, Yaxin Zhang, Xingyan Pan, Huilin Huang*, <strong>Liao W</strong> , Xin Wang*. LncRNA MIR200CHG inhibits epithelial-mesenchymal transition in gastric cancer by stabilizing miR-200c from target-directed miRNA degradation. Nat Commun, 2023; 14: 8141.
+3. Lina Zhu#, Chengmei Huang#, Chao Zhang#, Enen Zhao, Yaxin Zhang, Xingyan Pan, Huilin Huang*, <strong>Liao W*</strong> , Xin Wang*. LncRNA MIR200CHG inhibits epithelial-mesenchymal transition in gastric cancer by stabilizing miR-200c from target-directed miRNA degradation. Nat Commun, 2023; 14: 8141.
 
 
 4. Li M#, Huang C#, Wu Y#, Zhu L, Zhang Y, Zhou Y, Li H, Liu Z, Pan X, Wang X, Qiu J*, Li F*, <strong>Liao W*</strong>. Long non-coding RNA CCL14-AS suppresses invasiveness and lymph node metastasis of colorectal cancer cells by regulating MEP1A. Cancer Cell Int, 2023 Feb 15;23(1):27-42.
