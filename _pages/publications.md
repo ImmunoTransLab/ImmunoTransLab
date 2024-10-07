@@ -20,8 +20,7 @@ author_profile: true
 
 
 
-5. Dongni Shi#, Xianqiu Wu#, Yunting Jian#, Junye Wang#, Chengmei Huang, Shuang Mo, Yue Li, Fengtian Li, Chao Zhang, Dongsheng Zhang, Huizhong Zhang, Huilin Huang, Xin Chen, Y. Alan Wang, Chuyong Lin, Guozhen Liu*, Libing Song*,<strong>Liao W*</strong>. Nat Commun. 2022 Sep 26;13(1):5644. doi: 10.1038/s41467-022-33285-x.
-
+5. Dongni Shi#, Xianqiu Wu#, Yunting Jian#, Junye Wang#, Chengmei Huang, Shuang Mo, Yue Li, Fengtian Li, Chao Zhang, Dongsheng Zhang, Huizhong Zhang, Huilin Huang, Xin Chen, Y. Alan Wang, Chuyong Lin, Guozhen Liu*, Libing Song*, <strong>Wenting Liao*</strong>. Nat Commun. 2022 Sep 26;13(1):5644. doi: 10.1038/s41467-022-33285-x.
 
 
 6. Huang C#, Ou R#, Chen X#, Zhang Y, Li J, Liang Y, Zhu X, Liu L, Li M, Lin D, Qiu J, Liu G, Zhang L, Wu Y, Tang H, Liu Y, Liang L, Ding Y*, <strong>Liao W*</strong>. Tumor cell-derived SPON2 promotes M2-polarized tumor-associated macrophage infiltration and cancer progression by activating PYK2 in CRC. J Exp Clin Cancer Res. 2021 Sep 28;40(1):304.
