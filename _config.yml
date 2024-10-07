@@ -21,7 +21,8 @@ repository               : "https://liaolab2024.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/liao3.png"
+#  avatar           : "images/liao3.png"
+  avatar           : "liao3.png"
   name             : "Wenting Liao"
   pronouns         : # example: "she/her"  
   bio              : "PI"
