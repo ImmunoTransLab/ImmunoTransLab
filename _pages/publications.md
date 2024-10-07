@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-1. Zhou Y#, Zhang Y#, Li M#, Ming T#, Zhang C, Huang C, Li J, Li F, Li H, Zhao E, Shu F, Liu L, Pan X, Gao Y, Tian L, Song L*, Huang H*,<strong>Liao W*</strong>. Oncogenic KRAS drives immunosuppression of colorectal cancer by impairing DDX60-mediated dsRNA accumulation and viral mimicry. 2024 Oct 4;9(100):eado8758. doi: 10.1126/sciimmunol.ado8758.
+1. Zhou Y#, Zhang Y#, Li M#, Ming T#, Zhang C, Huang C, Li J, Li F, Li H, Zhao E, Shu F, Liu L, Pan X, Gao Y, Tian L, Song L*, Huang H*,<strong>Liao W*<strong>. Oncogenic KRAS drives immunosuppression of colorectal cancer by impairing DDX60-mediated dsRNA accumulation and viral mimicry. 2024 Oct 4;9(100):eado8758. doi: 10.1126/sciimmunol.ado8758.
 
 
 2. Li J, Lan Z,<strong>Liao W</strong>, Horner JW, Xu X, Liu J, Yoshihama Y, Jiang S, Shim HS, Slotnik M, LaBella KA, Wu CJ, Dunner K, Jr., Hsu WH, Lee R, Khanduri I, Terranova C, Akdemir K, Chakravarti D, Shang X, Spring DJ, Wang YA, DePinho RA. Histone demethylase KDM5D upregulation drives sex differences in colon cancer. Nature, 2023; 619, 632-639.
@@ -29,7 +29,7 @@ author_profile: true
 7. Wang S#, Qiu J#, Liu L#, Su C, Qi L, Huang C, Chen X, Zhang Y, Ye Y, Ding Y, Liang L*, <strong>Liao W*</strong>. CREB5 promotes invasiveness and metastasis in colorectal cancer by directly activating MET. J Exp Clin Cancer Res. 2020 Aug 25;39(1):168.
 
 
-8. Zhu X#, Wang F#, Wu X, Li Z, Wang Z, Ren X, Zhou Y, Song F, Liang Y, Zeng Z, Liao W, Ding Y*, <strong>Liao W*</strong>, 
+8. Zhu X#, Wang F#, Wu X, Li Z, Wang Z, Ren X, Zhou Y, Song F, Liang Y, Zeng Z, Liao W, Ding Y*, <strong>Liao W*<strong>, 
  Liang L*. FBX8 promotes metastatic dormancy of colorectal cancer in liver. Cell Death Dis. 2020 Aug 14;11(8):622.
 
 
