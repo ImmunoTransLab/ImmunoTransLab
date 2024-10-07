@@ -29,7 +29,7 @@ author_profile: true
 7. Wang S#, Qiu J#, Liu L#, Su C, Qi L, Huang C, Chen X, Zhang Y, Ye Y, Ding Y, Liang L*, <strong>Liao W*</strong>. CREB5 promotes invasiveness and metastasis in colorectal cancer by directly activating MET. J Exp Clin Cancer Res. 2020 Aug 25;39(1):168.
 
 
-8. Zhu X#, Wang F#, Wu X, Li Z, Wang Z, Ren X, Zhou Y, Song F, Liang Y, Zeng Z, Liao W *, Ding Y*,<strong>Liao W*</strong>, 
+8. Zhu X#, Wang F#, Wu X, Li Z, Wang Z, Ren X, Zhou Y, Song F, Liang Y, Zeng Z, Liao W *, Ding Y*,__Liao W*__, 
  Liang L*. FBX8 promotes metastatic dormancy of colorectal cancer in liver. Cell Death Dis. 2020 Aug 14;11(8):622.
 
 
