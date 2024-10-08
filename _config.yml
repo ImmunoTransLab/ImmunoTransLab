@@ -12,9 +12,9 @@ title                    : "Liao Lab"
 title_separator          : "-"
 name                     : &name "Liao Lab"
 description              : &description "Seek adventures that open our minds."
-url                      : "https://liaolab2024.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://ImmunoTransLab.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://liaolab2024.github.io/"
+repository               : "https://ImmunoTransLab.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
