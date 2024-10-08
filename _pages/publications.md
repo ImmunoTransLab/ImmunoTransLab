@@ -7,7 +7,8 @@ author_profile: true
 
 
 
-1. Zhou Y, Zhang Y, Li M, Ming T, Zhang C, Huang C, Li J, Li F, Li H, Zhao E, Shu F, Liu L, Pan X, Gao Y, Tian L, Song L *, Huang H *, Liao W *. Sci Immunol. 2024 Oct 4;9(100):1.
+1. Zhou Y, Zhang Y, Li M, Ming T, Zhang C, Huang C, Li J, Li F, Li H, Zhao E, Shu F, Liu L, Pan X, Gao Y, Tian L, Song L *, Huang H *, __Liao W *__. Sci Immunol. 2024 Oct 4;9(100):1.
+
 Complete URL Address: https://liaolab2024.github.io/publications/
 
 
