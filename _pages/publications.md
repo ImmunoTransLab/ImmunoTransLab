@@ -11,7 +11,7 @@ author_profile: true
 
    ❗️Complete URL Address:
 
-      https://www.science.org/stoken/author-tokens/ST-2166/full
+      #0000FF https://www.science.org/stoken/author-tokens/ST-2166/full
 
 
 3. Li J, Lan Z,<strong>Liao W</strong>, Horner JW, Xu X, Liu J, Yoshihama Y, Jiang S, Shim HS, Slotnik M, LaBella KA, Wu CJ, Dunner K, Jr., Hsu WH, Lee R, Khanduri I, Terranova C, Akdemir K, Chakravarti D, Shang X, Spring DJ, Wang YA, DePinho RA. Histone demethylase KDM5D upregulation drives sex differences in colon cancer. Nature, 2023; 619, 632-639.
