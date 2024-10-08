@@ -7,7 +7,8 @@ author_profile: true
 
 
 
-1.	Zhou Y#, Zhang Y#, Li M#, Ming T#, Zhang C, Huang C, Li J, Li F, Li H, Zhao E, Shu F, Liu L, Pan X, Gao Y, Tian L, Song L *,Huang H *, __Liao W*__. Sci Immunol. 2024 Oct 4;9(100):eado8758.
+1.Zhou Y, Zhang Y, Li M, Ming T, Zhang C, Huang C, Li J, Li F, Li H, Zhao E, Shu F, Liu L, Pan X, Gao Y, Tian L, Song L *, Huang H *, Liao W *. Sci Immunol. 2024 Oct 4;9(100):1.
+Complete URL Address: https://liaolab2024.github.io/publications/
 
 
 2. Li J, Lan Z,<strong>Liao W</strong>, Horner JW, Xu X, Liu J, Yoshihama Y, Jiang S, Shim HS, Slotnik M, LaBella KA, Wu CJ, Dunner K, Jr., Hsu WH, Lee R, Khanduri I, Terranova C, Akdemir K, Chakravarti D, Shang X, Spring DJ, Wang YA, DePinho RA. Histone demethylase KDM5D upregulation drives sex differences in colon cancer. Nature, 2023; 619, 632-639.
