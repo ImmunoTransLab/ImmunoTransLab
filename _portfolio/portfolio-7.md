@@ -6,7 +6,7 @@ excerpt: "📮E-mail: xushuo1@sysucc.org.cn
 👨🏻‍🔬Technician(2024-present)
 
 
-👨🏻‍🎓Bachelor<br/><img src='/images/xushuo.png'>"
+👨🏻‍🎓Master<br/><img src='/images/xushuo.png'>"
 
 collection: portfolio
 ---
