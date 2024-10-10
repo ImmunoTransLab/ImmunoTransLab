@@ -1,5 +1,5 @@
 ---
-title: "✨Xinyan Pan （潘兴艳）"
+title: "✨Xingyan Pan （潘兴艳）"
 excerpt: "📮E-mail:panxy@sysucc.org.cn
 
 
