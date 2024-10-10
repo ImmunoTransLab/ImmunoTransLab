@@ -1,12 +1,12 @@
 ---
-title: "Xinyan Pan （潘兴艳）"
-excerpt: "E-mail:panxy@sysucc.org.cn
+title: "✨Xinyan Pan （潘兴艳）"
+excerpt: "📮E-mail:panxy@sysucc.org.cn
 
 
-Technician(2021-present)
+👩🏻‍🔬Technician(2021-present)
 
 
-Bachelor,Guizhou Normal University ,China<br/><img src='/images/panxingyan.png'>"
+👩🏻‍🎓Bachelor,Guizhou Normal University ,China<br/><img src='/images/panxingyan.png'>"
 
 collection: portfolio
 ---
