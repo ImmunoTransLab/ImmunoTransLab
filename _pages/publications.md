@@ -13,7 +13,7 @@ author_profile: true
 
    ❗️Complete URL Address:
 
-   ➡️https://www.science.org/stoken/author-tokens/ST-2166/full
+   🔗➡️https://www.science.org/stoken/author-tokens/ST-2166/full
 
 
 2.  Zhou Y#, Li H#, Zhang Y#, Zhao E, Huang C, Pan X, Shu F, Liu Z, Tang N *, Li F *, __Liao W *__. Deubiquitinase USP4 suppresses antitumor immunity by inhibiting IRF3 activation and tumor cell-intrinsic interferon response in colorectal cancer. Cancer Lett, 2024 May 1:589:216836.
