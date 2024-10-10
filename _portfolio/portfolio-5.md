@@ -1,15 +1,15 @@
 ---
-title: "Enen Zhao（赵恩恩）"
-excerpt: "E-mail:zhaoee@sysucc.org.cn
+title: "☀️Enen Zhao（赵恩恩）"
+excerpt: "📮E-mail:zhaoee@sysucc.org.cn
 
 
-PhD student (2024-present)
+👩🏻‍🔬PhD student (2024-present)
 
 
-Master,Sun Yat-sen University, China
+👩🏻‍🎓Master,Sun Yat-sen University, China
 
 
-Bachelor, Sun Yat-sen University, China<br/><img src='/images/zhaoenen.png'>"
+👩🏻‍🎓Bachelor, Sun Yat-sen University, China<br/><img src='/images/zhaoenen.png'>"
 
 collection: portfolio
 ---
