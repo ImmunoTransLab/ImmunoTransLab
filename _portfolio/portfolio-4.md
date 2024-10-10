@@ -1,15 +1,15 @@
 ---
-title: "Shu Feng(舒丰)"
-excerpt: "Email: shufeng@sysucc.org.cn
+title: "🌴Shu Feng(舒丰)"
+excerpt: "📮Email: shufeng@sysucc.org.cn
 
 
-PhD(2023-present)
+👩🏻‍🔬PhD(2023-present)
 
 
-Master: Sun Yat-sen University
+👩🏻‍🎓Master: Sun Yat-sen University
 
 
-Bachelor: Hunan Normal University<br/><img src='/images/shufeng.png'>"
+👩🏻‍🎓Bachelor: Hunan Normal University<br/><img src='/images/shufeng.png'>"
 
 collection: portfolio
 ---
