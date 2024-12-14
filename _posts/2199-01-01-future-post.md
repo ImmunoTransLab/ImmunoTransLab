@@ -1,7 +1,7 @@
 ---
 title: '甲子风华，共创辉煌🏆'
 date: 2024-11-24
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2024/11/blog-post-20241124/
 tags:
   - 知识之载
   - 道德之寓
